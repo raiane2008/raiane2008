@@ -2,7 +2,6 @@
 # RAIANE GALDINO
 
 # SOBRE MIM 
-- Olá, meu apelido é Raiizinha
-- Gosto de estudar
-- Gosto de computação 
+- Olá 
+- Gosto de estudar 
 - Quero aprender mais sobre computadores
