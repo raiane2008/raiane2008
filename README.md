@@ -5,4 +5,4 @@
 - Olá 
 - Gosto de estudar 
 - Quero aprender mais sobre computadores
-- ![](https://media.tenor.com/ruxurlQqFXAAAAAC/paulinho-o-loko.gif)
+- ![](https://images.genius.com/b5ddd068c8ea1d9e5f72a21f4533ef2f.1000x563x1.jpg)
